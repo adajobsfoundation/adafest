@@ -1608,12 +1608,13 @@
 		}
 
 		.wrapper.style2 {
+			background-image: none;
 			background-color: #fff;
 			color: #000000
 		}
 
 		.wrapper.style3 {
-			background-color: #f4f4f4;
+			background-color: #fff;
 			text-shadow: 1px 1px 0px #fff;
 		}
 
@@ -1627,20 +1628,7 @@
 				color: #fff;
 			}
 
-			.wrapper.style4 form input[type=text],
-			.wrapper.style4 form input[type=password],
-			.wrapper.style4 form select,
-			.wrapper.style4 form textarea {
-				border: none;
-				background: #282828;
-			}
-
-				.wrapper.style4 form input[type=text]:focus,
-				.wrapper.style4 form input[type=password]:focus,
-				.wrapper.style4 form select:focus,
-				.wrapper.style4 form textarea:focus {
-					background: #252525;
-				}
+			
 
 /* Nav */
 
